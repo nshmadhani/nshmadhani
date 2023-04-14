@@ -5,13 +5,13 @@
 
 - 🤝 I’m looking for help with **MEV, Rollups and EI4484**
 
-- 👨‍💻 All of my projects are available at [portfolio.nshmadhani.com](portfolio.nshmadhani.com)
+- 👨‍💻 All of my projects are available at [portfolio.nshmadhani.com](https://nshmadhani.com/portfolio)
 
 - 💬 Ask me about **DeFi, ZK**
 
 - 📫 How to reach me **nshmadhani@gmail.com**
 
-- 📄 Know about my experiences [resume.nshmadhani.com](resume.nshmadhani.com)
+- 📄 Know about my experiences [resume.nshmadhani.com](https://nshmadhani.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
